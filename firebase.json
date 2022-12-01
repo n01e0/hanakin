@@ -59,6 +59,21 @@
             "destination": "/index.html"
           }
         ]
+      },
+      {
+        "target": "ultimate-hanakin",
+        "public": "ultimate",
+        "ignore": [
+          "firebase.json",
+          "**/.*",
+          "**/node_modules/**"
+        ],
+        "rewrites": [
+          {
+            "source": "**",
+            "destination": "/index.html"
+          }
+        ]
       }
   ]
 }
