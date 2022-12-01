@@ -1,5 +1,18 @@
 {
   "projects": {
     "default": "hanakin-c5979"
-  }
+  },
+  "targets": {
+    "hanakin-c5979": {
+      "hosting": {
+        "super-hanakin": [
+          "superhanakin"
+        ],
+        "hanakin": [
+          "hanakin-c5979"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
