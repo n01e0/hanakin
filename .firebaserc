@@ -10,6 +10,9 @@
         ],
         "hanakin": [
           "hanakin-c5979"
+        ],
+        "hyper-hanakin": [
+          "hyper-hanakin"
         ]
       }
     }
